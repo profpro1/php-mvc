@@ -1,7 +1,7 @@
 <?php
 return array(
     'host' => 'localhost',
-    'dbname' => 'phpstart',
+    'dbname' => 'super_mag',
     'user' => 'root',
     'password' => 'mysql',
 );
